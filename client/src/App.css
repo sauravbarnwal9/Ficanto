@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+* {
+  box-sizing: border-box;
+}
+
+.container{
+  padding: 150px 0;
+}
+
+.formbox{
+    display: flex;
+    justify-content: center;
+    margin-top: 5em;  
+}
+.singIn{
+  float: right;
+  margin: 2em;
+}
