@@ -53,3 +53,22 @@
   float: right;
   margin: 2em;
 }
+input{
+  
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 14px;
+background: #FFFFFF;
+border: 1px solid #D9D9D9;
+border-radius: 10px;
+}
+
+p{
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 14px;
+}

@@ -6,11 +6,6 @@ function Login() {
    <>
 
 
-
-
-
-
-
 <div className="row">
     <div className="col">
      <img src="https://source.unsplash.com/random/1920x1080/?money" width="100%" height="775vh" alt="Snow" />
