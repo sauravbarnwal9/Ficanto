@@ -4,7 +4,7 @@ import style from "../styles/Register.module.css";
 function Page3() {
   return (
     <>
-      <div className="row" style={{ height: "620px" }}>
+      <div className="row" style={{ height: "620px", width:"100%" }}>
         <div
           className="col"
           id={style.rightContainer}
@@ -31,10 +31,10 @@ function Page3() {
             </p>
           </div>
           <div
-            className="container mx-4 "
+            className="container  "
             style={{ backgroundColor: "#FFFFFF" }}
           >
-            <form style={{ width: "80%" }}>
+            <form style={{ width: "80%",marginTop:"-2rem" }}>
               <div class="row">
                 <div class="col">
                   <input
